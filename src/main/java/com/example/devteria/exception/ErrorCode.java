@@ -1,6 +1,4 @@
-package com.example.devteria.Exception;
-
-import lombok.Data;
+package com.example.devteria.exception;
 
 
 public enum ErrorCode {
